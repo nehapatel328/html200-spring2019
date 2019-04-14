@@ -1,4 +1,5 @@
 console.log('hi');
+
 let x = 1;
 let y = 2/a;
 let z = x + y;
